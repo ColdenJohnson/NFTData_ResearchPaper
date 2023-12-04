@@ -1,4 +1,4 @@
-# NFTData_ResearchPaper
+# NFTData_ResearchPaper (Figures)
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/88efc18e-084b-4539-9e2f-0fce918b71af)
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/f4f27b9f-16e1-487e-9a73-54cf2504317f)
