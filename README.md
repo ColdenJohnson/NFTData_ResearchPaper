@@ -2,6 +2,7 @@
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/88efc18e-084b-4539-9e2f-0fce918b71af)
 
 Notice the VERY low correlation between NFT price and various sentiment values. While there seems to be some slight correlations (see multivariable regression mtable) for certain sentiment values and in certain categories, there is certainly not a stront relationship immediately obvious.
+Equally interesting, there are many relationships between variables (for example, disgust and anger seem to be relatively highly correlated).
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/f4f27b9f-16e1-487e-9a73-54cf2504317f)
 
