@@ -16,8 +16,10 @@ Most common words across all categories -- this graph is dominated by the "gamin
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/f3d9e76a-b465-4b01-9e13-745155e1b9b5)
 
+Metaverse is overwhelmingly positive, with very little variation or other emotions present.
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/cb236755-2d0f-486d-9367-c26f00add4f2)
+
 "Collectible" is the only category with more negative than positive sentiment.
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/74ac3f50-a762-4a97-a2ef-8939b52bef2e)
