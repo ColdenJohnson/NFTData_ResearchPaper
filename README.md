@@ -18,14 +18,14 @@ Most common words across all categories -- this graph is dominated by the "gamin
 
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/cb236755-2d0f-486d-9367-c26f00add4f2)
-
+"Collectible" is the only category with more negative than positive sentiment.
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/74ac3f50-a762-4a97-a2ef-8939b52bef2e)
 
-Notice how Utility tokens are dominated by Trust and Anticipation.
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/083908b8-0db0-4277-8e70-385b76907ec4)
 
+Notice how Utility tokens are dominated by Trust and Anticipation. This makes sense, when token use is considered.
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/69aa9d07-2464-4f88-aa8e-64603487e499)
 
