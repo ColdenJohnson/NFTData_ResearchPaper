@@ -22,6 +22,7 @@ Most common words across all categories -- this graph is dominated by the "gamin
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/74ac3f50-a762-4a97-a2ef-8939b52bef2e)
 
+Notice how Utility tokens are dominated by Trust and Anticipation.
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/083908b8-0db0-4277-8e70-385b76907ec4)
 
