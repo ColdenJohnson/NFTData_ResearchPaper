@@ -8,6 +8,14 @@ Equally interesting, there are many relationships between variables (for example
 
 Most common words across all categories -- this graph is dominated by the "gaming" token descriptions.
 
+![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/8f29c960-774e-43e0-a9bb-545dbf3a7b0c)
+
+Average trading price in USD over time. Three similar categories, Metaverse, Art, and Collectible are simultaneously displayed.
+
+![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/82a8128b-7742-407f-bb34-ef047a807cbe)
+
+Average price in USD filtered by category. Categories are Metaverse, Utility, Art, Collectible, Games, and Other. This visualization only includes queried data and is not a truly accurate or proportional representation of the overall NFT market. For example, because all NFTs in the 'Gods Unchained' ecosystem have been queried, this has shifted the reflected average price and is not representative of, say, the average price of 'Gaming' type NFTs on OpenSea.
+
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/42aa818c-090f-4602-8ec8-16942e3d2788)
 
 
