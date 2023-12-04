@@ -13,6 +13,7 @@ Most common words across all categories -- this graph is dominated by the "gamin
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/fc129124-db42-4407-ab1e-6ff98cc00672)
 
+Art has the most variation in terms of sentiment, and is near balanced across many categories (anticipation, joy, trust)
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/f3d9e76a-b465-4b01-9e13-745155e1b9b5)
 
