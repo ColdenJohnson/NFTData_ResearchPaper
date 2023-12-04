@@ -1,12 +1,10 @@
 # NFTData_ResearchPaper
+![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/88efc18e-084b-4539-9e2f-0fce918b71af)
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/f4f27b9f-16e1-487e-9a73-54cf2504317f)
 
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/42aa818c-090f-4602-8ec8-16942e3d2788)
-
-
-![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/88efc18e-084b-4539-9e2f-0fce918b71af)
 
 
 ![image](https://github.com/ColdenJohnson/NFTData_ResearchPaper/assets/118926209/fc129124-db42-4407-ab1e-6ff98cc00672)
